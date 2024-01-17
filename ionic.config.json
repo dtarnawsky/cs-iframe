@@ -1,0 +1,7 @@
+{
+  "name": "cs-iframe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
